@@ -1,3 +1,9 @@
+# 🧠 Who I Am
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://who-i-am-bndv4jr48rvhchpt5aivup.streamlit.app/)
+
+A simple interactive CV built with Python and Streamlit.
+
 # 💻 Developer CV Script
 
 Welcome to my interactive **Python Developer CV**!  
