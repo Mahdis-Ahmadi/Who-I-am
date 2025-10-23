@@ -1,0 +1,6 @@
+# Core dependencies
+streamlit>=1.38
+dataclasses; python_version < "3.7"  # Only needed for older Python versions
+
+# Optional (nice to have for formatting or running from IDE)
+typing-extensions>=4.12

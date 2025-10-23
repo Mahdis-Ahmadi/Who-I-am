@@ -1,0 +1,19 @@
+# Byte-compiled / caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env
+.env.*
+
+# Editor files
+.vscode/
+.idea/
+
+# System
+.DS_Store
+
+# Streamlit cache (optional)
+.streamlit/
